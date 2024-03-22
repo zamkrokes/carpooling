@@ -1,4 +1,4 @@
-# Carpooling Optimization
+# Carpooling Optimization
 ## Project Description
 This repository contains an optimization model and associated network generation and preprocessing scripts for carpooling applications.
 
@@ -65,6 +65,6 @@ visualize: Boolean parameter to toggle result visualization on or off.
 ### in network.py
 area: Location selection.
 
-## Technologies Used:
+## Technologies Used:
 
 Python, OpenStreetMap (OSM), OSMnx, NetworkX, Gurobi, Pandas, NumPy, Matplotlib, Plotly, Random, Datetime, Time
