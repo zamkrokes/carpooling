@@ -47,10 +47,10 @@ This file includes functions for generating data, preprocessing the data, and pe
 It contains functions for user generation, path calculation, route plotting, origin-destination pair generation, preprocessing of passenger-driver pairs, and more.
 The functions are extensively documented within the file for further details on their usage and parameters.
 
-### network.py:
+### network.py:
 This file contains functions for retrieving, processing, and analyzing network data using the OSMnx and networkx library. It serves as a crucial component in the carpooling system, providing the necessary infrastructure for route calculation and analysis.
 
-### optimization.py:
+### optimization.py:
 This file includes an optimization model built using the Gurobi optimization library for efficient carpooling assignments. It plays a central role in optimizing the allocation of drivers and passengers to minimize number of SOVs, with weights as drive times.
 
 ## Adjustable Parameters:
