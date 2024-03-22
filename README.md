@@ -40,7 +40,7 @@ Run this command:
 - View Results
 After running the project, view the assignments.csv, departure_arrival_times.csv, users_going_by_its_own_car.csv files in the project folder. And view the visualization of the routes on network in the 'visualization' folder in the project folder.
 
-## File Descriptions
+## File Descriptions
 ### data_generation_and_preprocess.py:
 
 This file includes functions for generating data, preprocessing the data, and performing various calculations related to carpooling.
