@@ -55,15 +55,15 @@ This file includes an optimization model built using the Gurobi optimization lib
 
 ## Adjustable Parameters:
 ### in optimization.py
-M: Number of drivers.
-N: Number of passengers.
-W: Maximum walking travel time that a user is willing to walk, in minutes.
-R: Minimum ride travel time that a user is willing to ride, in minutes.
-threshold_distance: Minimum travel time between origin and destination, in minutes (for origin destination generation).
-car_capacity: Maximum number of passengers that a car can carry.
-visualize: Boolean parameter to toggle result visualization on or off.
+- M: Number of drivers.
+- N: Number of passengers.
+- W: Maximum walking travel time that a user is willing to walk, in minutes.
+- R: Minimum ride travel time that a user is willing to ride, in minutes.
+- threshold_distance: Minimum travel time between origin and destination, in minutes (for origin destination generation).
+- car_capacity: Maximum number of passengers that a car can carry.
+- visualize: Boolean parameter to toggle result visualization on or off.
 ### in network.py
-area: Location selection.
+- area: Location selection.
 
 ## Technologies Used:
 
